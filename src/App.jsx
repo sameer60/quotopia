@@ -31,7 +31,7 @@ function App() {
           </p>
         </div>
         <div className="text-center bg-indigo-50 rounded-md p-4">
-          <h1 className="text-balance font-light text-lg md:text-xl w-full md:w2/3 xl:w-4/5">
+          <h1 className="text-balance font-light text-lg md:text-xl">
             {quote}
           </h1>
           <p className="text-balance tracking-tight font-normal text-xs md:text-sm mb-4 text-gray-600">
